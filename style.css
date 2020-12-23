@@ -49,11 +49,14 @@ body {
   color: #2196f3;
 }
 .nav-item:hover{
-  color: red;
+  color: #2196F3;
   transition: 1.5s;
   font-size: 16px;
 }
 
+.benefits-item{
+  padding: 17px;
+}
 /* _______________________________MAIN */
 /* ____________ORDER_SECTION */
 
@@ -227,3 +230,7 @@ footer {
 opacity: .6;
 }
 
+.contacts-item:hover{
+  color: #2196F3;
+  transition: 1.5s;
+}
